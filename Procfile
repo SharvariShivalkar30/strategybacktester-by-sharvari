@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run assignment.py
+web: sh setup.sh && streamlit run StrategyBacktesting.py
